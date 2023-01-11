@@ -1,0 +1,14 @@
+###
+GET http://localhost:8080/get-items
+Content-Type: application/json
+
+{
+  "items": [
+    "4422",
+    "1913",
+    "3000",
+    "4431",
+    "Интересно че будет если фигню отправить))",
+    "2590"
+  ]
+}
